@@ -1,2 +1,2 @@
 print("Hello")
-print("Hello Jamshedpur")
+print("Hello Ranchi")
